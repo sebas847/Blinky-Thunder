@@ -6,12 +6,19 @@ Here are some images of the electronic schematic, PCB design, and 3D PCB layout 
 <img width="755" height="767" alt="image" src="https://github.com/user-attachments/assets/d26ec9eb-e7b3-4de9-a4e0-0b68bfd6ec10" />
 <img width="574" height="740" alt="image" src="https://github.com/user-attachments/assets/5169f29d-4c0d-4468-bcb9-cbe8d3fa3ca9" />
 <img width="758" height="752" alt="image" src="https://github.com/user-attachments/assets/97864b91-52cf-4729-aa3a-66bc46557b5f" />
-Component,Description / Purpose,Quantity,Estimated Total (USD),Distributor
-PCB,Custom lightning-bolt shaped board,1,$4.00,JLCPCB
-NE555P,Precision Timer (Clock pulse generator),1,$0.50,Local / Online Store
-CD4017,Decade Counter (LED sequencer),1,$0.60,Local / Online Store
-LEDs (Red),5mm Light Emitting Diodes,10,$1.00,Local / Online Store
-Potentiometer,Variable Resistor (Speed control),1,$0.80,Local / Online Store
-Resistors,Current limiting & configuration,5,$0.25,Local / Online Store
-Capacitors,Timing & power decoupling,2,$0.30,Local / Online Store
-9V Battery,Power source with clip connector,1,$1.50,Local / Online Store
+
+And finally, here is the Bill of Materials (BOM) of all the components included in the project.
+
+PCB: Custom lightning-bolt shaped board — $4.00 (1 unit)
+
+NE555P: Precision Timer IC (Clock pulse generator) — $0.50 (1 unit)
+
+CD4017: Decade Counter IC (LED sequencer) — $0.60 (1 unit)
+
+LEDs (Red): 5mm Light Emitting Diodes — $1.00 (10 units)
+
+Potentiometer: Variable Resistor for speed control — $0.80 (1 unit)
+
+Resistors: Current limiting and circuit configuration — $0.25 (5 units)
+
+Capacitors: Timing and power decoupling — $0.30 (2 units)
