@@ -6,6 +6,8 @@ Here are some images of the electronic schematic, PCB design, and 3D PCB layout 
 <img width="755" height="767" alt="image" src="https://github.com/user-attachments/assets/d26ec9eb-e7b3-4de9-a4e0-0b68bfd6ec10" />
 <img width="574" height="740" alt="image" src="https://github.com/user-attachments/assets/5169f29d-4c0d-4468-bcb9-cbe8d3fa3ca9" />
 <img width="758" height="752" alt="image" src="https://github.com/user-attachments/assets/97864b91-52cf-4729-aa3a-66bc46557b5f" />
+<img width="1840" height="4096" alt="1000116827" src="https://github.com/user-attachments/assets/5eef47a8-0dfd-4d34-9fa8-4637925d932d" />
+
 
 And finally, here is the Bill of Materials (BOM) of all the components included in the project.
 
